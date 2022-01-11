@@ -39,5 +39,5 @@ input {
 	-webkit-transition: box-shadow .5s ease;
 	-moz-transition: box-shadow .5s ease;
 	-o-transition: box-shadow .5s ease;
-	transition: box-shadow .5s ease;
+	transition: box-shadow .5s ease; 
 }
