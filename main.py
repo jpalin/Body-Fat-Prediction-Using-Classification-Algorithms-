@@ -6,6 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.neighbors import KNeighborsClassifier
 import pickle
 
+# code to manipulate data and create required classifier
 
 # function for importing body data and selecting correct data
 def import_dataset():
